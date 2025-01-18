@@ -122,7 +122,7 @@ Here is an example JSON format for a Google Service Account credentials file:
 ```json
 {
   "type": "service_account",
-  "project_id": "my-project-2-448204",
+  "project_id": "project_id",
   "private_key_id": "",
   "private_key": "",
   "client_email": "",
