@@ -10,7 +10,7 @@ app.use(cors());
 
 // Authentication setup
 const auth = new google.auth.GoogleAuth({
-  keyFile: path.join(__dirname, './my-project-2-448204-576a1f098848.json'),
+  keyFile: path.join(__dirname, './_SpreadsheetsCredentialsFile_.json'),
   scopes: 'https://www.googleapis.com/auth/spreadsheets',
 });
 
